@@ -1,0 +1,12 @@
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.deps.json
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/ref/Framework.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/bin/Debug/net6.0/Framework.pdb
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.csproj.AssemblyReference.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.AssemblyInfoInputs.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.AssemblyInfo.cs
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.csproj.CoreCompileInputs.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/ref/Framework.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/Debug/net6.0/Framework.pdb

@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/Royale.csproj": {}
+  },
+  "projects": {
+    "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj",
+        "packagesPath": "/Users/horbarz/.nuget/packages/",
+        "outputPath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/horbarz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/Royale.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/Royale.csproj",
+        "projectName": "Royale",
+        "projectPath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/Royale.csproj",
+        "packagesPath": "/Users/horbarz/.nuget/packages/",
+        "outputPath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/horbarz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj": {
+                "projectPath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

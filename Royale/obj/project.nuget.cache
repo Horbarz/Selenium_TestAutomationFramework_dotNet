@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rle/79Wd5i0bgFw5WDI5grpeivXeb7KmGmcEVrEd904GL5B56bzpsY1EOuW8sgIarM2E/Y3tbxNxeHW845ZaiQ==",
+  "success": true,
+  "projectFilePath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/Royale.csproj",
+  "expectedPackageFiles": [
+    "/Users/horbarz/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/horbarz/.nuget/packages/selenium.support/4.1.0/selenium.support.4.1.0.nupkg.sha512",
+    "/Users/horbarz/.nuget/packages/selenium.webdriver/4.1.0/selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

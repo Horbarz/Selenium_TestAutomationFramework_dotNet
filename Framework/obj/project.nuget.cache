@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHJBz84iVLlKtjxC7kKO/fnbYiNHteRQgOzZfnQAdaKDlltAJxcsAcNVCh/aGDwB0lDIzo8m0aSPaU/Ba1pT8w==",
+  "success": true,
+  "projectFilePath": "/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Framework/Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/horbarz/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/horbarz/.nuget/packages/selenium.support/4.1.0/selenium.support.4.1.0.nupkg.sha512",
+    "/Users/horbarz/.nuget/packages/selenium.webdriver/4.1.0/selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

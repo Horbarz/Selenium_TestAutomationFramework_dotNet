@@ -1,0 +1,15 @@
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.deps.json
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/ref/Royale.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Royale.pdb
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Framework.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/bin/Debug/net6.0/Framework.pdb
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.AssemblyReference.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.GeneratedMSBuildEditorConfig.editorconfig
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.AssemblyInfoInputs.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.AssemblyInfo.cs
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.CoreCompileInputs.cache
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.csproj.CopyComplete
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/ref/Royale.dll
+/Users/horbarz/Documents/Codes/TestAutomation/TAU/scripting-to-framework/Royale/obj/Debug/net6.0/Royale.pdb
